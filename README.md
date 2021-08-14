@@ -133,6 +133,80 @@ Why is this role right for you?
 
 Have you been interviewing with any other company? How has it been so far?
 
+Why did you choose to attend your college?
+
+Why are you interested in this career?
+
+Do you prefer working alone or in teams?
+
+How would a good friend describe you?
+
+Tell me about your proudest achievement?
+
+What's been your biggest disappointment, and how did you handle it?
+
+Give me an example of a time when you had to think out of the box?
+
+What makes you qualified for this position?
+
+What do you think it takes to be successful in a company like ours?
+
+In what ways do you think you can make a contribution to our company?
+
+What's the most recent book you've read?
+
+What 2 or 3 accomplishments have given you the most satisfaction?
+
+Why did you decide to seek a position in this company?
+
+What can you tell us about our company?
+
+What do you think about our competitors?
+
+What 2 or 3 things are most impo;rtant to you in a job?
+
+Can you describe a situation in which you faied at something?
+
+How do you respond to stress?
+
+How do you respond to "unfair" criticism?
+
+How have you handled a difficult professor/roommate/colleague?
+
+What was your favourite course in college and what did you learn from it?
+
+What was your least favourite course in college and what did you learn from it?
+
+Did you like or dislike working in student groups in college?
+
+How has college changed you?
+
+What was your greatest accomplishment in college?
+
+What do you think of our product?
+
+What do you think of our advertising?
+
+What do you think of the media coverage that we have been getting?
+
+What do you think of our stores/website?
+
+Which competitor do you thikn we should be most worried about?
+
+What other jobs are you considering?
+
+Why has it taken you so long to find a job?
+
+If we hire you, how will we be better off?
+
+Based on our description of the job, what do you think about it?
+
+If we offered you a different job, would you take it?
+
+If we offered you this job, how long do you intend to stay?
+
+Do you have any question for us?
+
 
 ## Questions You Could Ask
 
@@ -154,3 +228,21 @@ Could you ellaborate on career progression within the company?
 Software engineering job can be detrimental to your health. As a company, how do you make sure your software engineers maintain healthy life?
 
 How do you decide what stack you use?
+
+How did you get into this field/business?
+
+What is the reason this job is available?
+
+What would you consider to be exceptional performance in this position during the first 3 to 6 months on the job?
+
+To whom would I report?
+
+What are the job responsibilities?
+
+What happened to the person who had the job you are now looking to fill?
+
+What is the targeted start date?
+
+Who am I going to be meeting with during the interviews?
+
+How did you find me? (if recruiters contact you)
