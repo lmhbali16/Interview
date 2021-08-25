@@ -246,3 +246,15 @@ What is the targeted start date?
 Who am I going to be meeting with during the interviews?
 
 How did you find me? (if recruiters contact you)
+
+Do you have a budget for books and personal development?
+
+Do you open-source any software?
+
+How do you monitor the performance of your application?
+
+What is your testing strategy?
+
+What stack do you use?
+
+Do you still have legacy system that you still maintain? Are you planning to migrate them?
