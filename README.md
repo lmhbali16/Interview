@@ -219,7 +219,7 @@ How do you maintain good code quality?
 
 How flexible is the role? Am I able to work with other teams/departments, too?
 
-What is the communication is like between dev team and test team? Or tech team and other department?
+What is the communication like between dev team and test team? Or tech team and other department?
 
 What are the expectation of the role in the next 3/6/12 months?
 
