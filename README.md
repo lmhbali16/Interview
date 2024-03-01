@@ -31,6 +31,8 @@ How would you describe data science to a person with no technical background?
 
 Why do you want to work for us?
 
+Talk me through your biggest product flop. What happened and what did you do about it?
+
 Why did you decide to study computer science?
 
 What was the reason for coming to Australia?
@@ -52,6 +54,26 @@ Why are you looking to change job?
 What is you current salary?
 
 Why should we hire you?
+
+What’s the hardest thing you’ve ever done?
+
+Tell me about a time you’ve been in a challenging or highly ambiguous situation, and how you navigated that ambiguity.
+
+Describe a time when you were part of a controversial product decision, and what you did
+
+Tell me about a time something went wrong. What happened and what did you do about it?
+
+What is the worst product that you’ve ever shipped?
+
+Tell me about a time when you needed to disagree with your manager or fight for a position against higher leadership.
+
+What’s something that everyone takes for granted that you think is hogwash?
+
+What’s an unfair secret you’ve learned to improve a product team’s velocity and energy level?
+
+Tell me about something you did that worked out but not for the reason that you thought it would.
+
+What is an experiment you launched that had a very unexpected result? And what did you do after that?
 
 Do you have any question for me?
 
