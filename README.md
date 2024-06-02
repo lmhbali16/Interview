@@ -229,6 +229,59 @@ If we offered you this job, how long do you intend to stay?
 
 Do you have any question for us?
 
+Tell me about a time when you strongly disagreed with your manager or peer on something you considered very important to the business.
+
+To try to meet the high expectations of our customers, we sometimes promise more than we can deliver. Tell me about a time when you overcommitted yourself or your company
+
+Tell me about a time when you didn’t meet customer’s needs
+
+Give me an example of a complex problem you solved with a simple solution
+
+Give me an example of a mission or goal you didn’t think was achievable. We all have things about ourselves we'd like to improve on at work. Give me an example of something that you've worked on to improve your overall work effectiveness
+
+Tell me about a time when you used external trends to improve your own company's products or services
+
+Tell me about a time when you had to work with a difficult customer or user
+
+Could you tell me about a time where you were working on a project where you were working with another person. Over time, that person lessened their involvement in the project and you had to take on more responsibility
+
+Tell me about a strategic decision you had to make without clear data or benchmarks
+
+Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with
+
+Tell me about a time where you were thrown into a project where you had no experience in.
+
+Often, we must make decisions as a group. Give me an example of a time you committed to a group decision even though you disagreed.
+
+Describe a time when you took on work outside of your comfort area.
+
+Describe a situation where you made an important business decision without consulting your manager.
+
+ell me about a time when you did not effectively manage your projects and something did not get completed on time.
+
+Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was good enough.
+
+Tell me about a time when you received negative feedback.
+
+Describe a time when you improved morale and productivity on your team.
+
+Give an example of a creative idea you had that proved really difficult to implement.
+
+Tell me about a time when you encouraged a team member or organization to take a big risk
+
+Give an example of a creative idea you had that proved really difficult to implement.
+
+Give me an example of a calculated risk that you have taken where speed was critical.
+
+Tell me about a time where you were the first one to take action on something.
+
+Tell me about a time you pushed back on a deadline.
+
+Give me an example of how you have helped save costs or eliminate waste within your role or organization.
+
+Tell me about a time when you had a disagreement with a colleague or manager.
+
+Describe a time when you needed to influence a peer who had a differing opinion about a shared goal.
 
 ## Questions You Could Ask
 
